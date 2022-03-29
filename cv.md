@@ -1,7 +1,8 @@
 # Ksenia Jurievna
 
 ![photo](image.jpeg)
-***
+
+
 ## Contact information
 **E-mail**: jurievnaksenia@gmail.com  
 **GitHub**: [kseniajurievna](https://github.com/kseniajurievna)  
