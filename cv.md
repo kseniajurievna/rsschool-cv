@@ -11,7 +11,7 @@
 
 ## About me  
 
-I currently pursue an associate degree in Computer Science and recently started a new career path in Software Quality Assurance. I feel that now is the best time to learn new skills and grow professionally toward front-end development. I eager to learn and very excited to join Rolling Scopes School. When faced with obstacles I never give up, I see them as a necessary part of growth and a great opportunity to learn something new.  
+I am currently pursuing an associate degree in Computer Science and recently started a new career path in Software Quality Assurance. I feel that now is the best time to learn new skills and grow professionally toward front-end development. I eager to learn and very excited to join Rolling Scopes School. When faced with obstacles I never give up, I see them as a necessary part of growth and a great opportunity to learn something new.  
 
 ***
 
@@ -57,11 +57,14 @@ for (let i = 0, j = str.length - 1; i<=j; i++, j--){
   Associate degree, Computer Science (in progress)
 - **Santa Monica College**  
   Department Certificate, Cloud Computing (AWS)
+
 ***
+
 ## Languages
 - English - Advanced
 - Russian - Native
-- Belarusian - Native
+- Belarusian - Native  
+
 ***
 
 ## Projects  
