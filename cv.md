@@ -2,19 +2,20 @@
 
 ![photo](image.jpeg)
 ***
-##Contact information
+## Contact information
 **E-mail**: jurievnaksenia@gmail.com  
 **GitHub**: [kseniajurievna](https://github.com/kseniajurievna)  
 **Discord**: kseniajurievna
 
 ***
 
-##About me  
+## About me  
 
 I currently pursue an associate degree in Computer Science and recently started a new career path in Software Quality Assurance. I feel that now is the best time to learn new skills and grow professionally toward front-end development. I eager to learn and very excited to join Rolling Scopes School. When faced with obstacles I never give up, I see them as a necessary part of growth and a great opportunity to learn something new.  
+
 ***
 
-##Skills
+## Skills
 
 - HTML
 - CSS (Bootstrap)
@@ -25,7 +26,7 @@ I currently pursue an associate degree in Computer Science and recently started 
 
 ***
 
-##Code example
+## Code example
 Given a number find nearest palindrome.
 ```
 function isPalindrome(str){ 
@@ -37,7 +38,8 @@ for (let i = 0, j = str.length - 1; i<=j; i++, j--){
  console.log(isPalindrome("abc"));
 ```
 ***
-##Experience
+## Experience  
+
 **09/2021 - Quality Assurance Engineer**  
 - Work in Agile environment consisting of daily stand up meetings, 2-week sprints
 - Perform manual, regression testing   
@@ -48,7 +50,7 @@ for (let i = 0, j = str.length - 1; i<=j; i++, j--){
 
 ***
 
-##Education
+## Education
 - **Belarusian State Economic University**  
   Bachelor's degree, International Business/Trade/Commerce
 - **Santa Monica College**  
@@ -56,11 +58,12 @@ for (let i = 0, j = str.length - 1; i<=j; i++, j--){
 - **Santa Monica College**  
   Department Certificate, Cloud Computing (AWS)
 ***
-##Languages
+## Languages
 - English - Advanced
 - Russian - Native
 - Belarusian - Native
 ***
 
-##Projects
+## Projects  
+
 [CV](https://github.com/kseniajurievna/rsschool-cv/blob/gh-pages/cv.md)
