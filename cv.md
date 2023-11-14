@@ -44,7 +44,7 @@ for (let i = 0, j = str.length - 1; i<=j; i++, j--){
 ***
 ## Experience  
 
-**09/2021 - Quality Assurance Engineer**  
+**09/2021 - present Quality Assurance Engineer**  
 - Work in Agile environment consisting of daily stand up meetings, 2-week sprints
 - Created and executed test plans, test scenarios, detailed test cases based on requirements 
 - Took ownership of a large piece of features from analyzing requirements, to test planing, to sign-off for release
